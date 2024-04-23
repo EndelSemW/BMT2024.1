@@ -15,7 +15,6 @@ logging.info(f"Lendo arquivo de configuracao: {path_config};")
 with open(path_config, 'r') as index_cfg:
     instrucoes = {line.split('=')[0].strip(): line.split('=')[1].strip() for line in index_cfg if '=' in line}
 
-
 path_leitura = r"C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\lista_invertida.csv"
 path_escrita = r"C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\modelo_vetorial.csv"
 
