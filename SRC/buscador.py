@@ -84,6 +84,6 @@ with open(resultados_arquivo, 'w', newline='') as arquivo_res:
 
 end_time = time.time()
 total_time = end_time - start_time
-logging.info(f"Tempo de execucao: {total_time}")
+logging.info(f"Tempo total de execucao: {total_time}")
 
 logging.info('Execucao do Buscador finalizada.')

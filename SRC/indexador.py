@@ -44,7 +44,7 @@ for index, row in lista_invertida.iterrows():
 logging.info(f"Total de documentos da colecao: {num_docs};")
 logging.info("Iniciando calculo do TF/IDF de cada termo.")
 
-# Cálculo do TF-IDF
+# Cálculo do tf/idf
 for index, row in lista_invertida.iterrows():
     word = row['Word']
     documentos = row['Docs'].strip("[]").split(",")
