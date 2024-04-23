@@ -1,16 +1,12 @@
-2024-04-22 14:50:48,424 - Iniciando execucao do Processador de Consultas.
-2024-04-22 14:50:48,425 - Abrindo o arquivo de configuracao: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Config files\PC.CFG
-2024-04-22 14:50:48,425 - Lendo as instrucoes: {'LEIA': 'cfquery.xml', 'CONSULTAS': 'consultas.csv', 'ESPERADOS': 'resultados_esperados.csv'}
-2024-04-22 14:50:48,425 - Iniciando leitura do arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cfquery.xml
-2024-04-22 14:50:48,442 - Leitura e processamento do aquivo concluidas.
-2024-04-22 14:50:48,443 - Escrevendo dados no arquivo CSV: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\consultas.csv
-2024-04-22 14:50:48,444 - Dados escritos com sucesso.
-2024-04-22 14:50:48,444 - Tempo de execucao: 0.01899552345275879
-2024-04-22 14:50:48,444 - Escrevendo dados no arquivo CSV: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\resultados_esperados.csv
-2024-04-22 14:50:48,448 - Dados escritos com sucesso.
-2024-04-22 14:50:48,448 - Tempo de execucao: 0.0230100154876709
-2024-04-22 14:50:48,448 - A execucao do processador de consultas foi finalizada.
-2024-04-22 14:52:26,288 - Iniciando execucao do Processador de Consultas.
-2024-04-22 14:52:26,289 - Abrindo o arquivo de configuracao: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Config files\PC.CFG
-2024-04-22 14:52:26,289 - Lendo as instrucoes: {'LEIA': 'cfquery.xml', 'CONSULTAS': 'consultas.csv', 'ESPERADOS': 'resultados_esperados.csv'}
-2024-04-22 14:52:26,289 - Iniciando leitura do arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\cfquery.xml
+2024-04-23 16:19:21,107 - Iniciando execucao do Processador de Consultas.
+2024-04-23 16:19:21,108 - Abrindo o arquivo de configuracao: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Config files\PC.CFG
+2024-04-23 16:19:21,108 - Lendo as instrucoes: {'LEIA': 'cfquery.xml', 'CONSULTAS': 'consultas.csv', 'ESPERADOS': 'resultados_esperados.csv'}
+2024-04-23 16:19:21,108 - Iniciando leitura do arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cfquery.xml
+2024-04-23 16:19:21,137 - Leitura e processamento do aquivo concluidas.
+2024-04-23 16:19:21,138 - Escrevendo dados no arquivo CSV: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\consultas.csv
+2024-04-23 16:19:21,139 - Dados escritos com sucesso.
+2024-04-23 16:19:21,139 - Tempo de execucao: 0.03108072280883789
+2024-04-23 16:19:21,139 - Escrevendo dados no arquivo CSV: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\resultados_esperados.csv
+2024-04-23 16:19:21,143 - Dados escritos com sucesso.
+2024-04-23 16:19:21,143 - Tempo de execucao: 0.03508448600769043
+2024-04-23 16:19:21,143 - A execucao do processador de consultas foi finalizada.
