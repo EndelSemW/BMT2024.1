@@ -1,0 +1,16 @@
+2024-04-22 15:45:40,590 - INFO - Lendo arquivo .CFG
+2024-04-22 15:45:40,591 - INFO - Carregando modelo vetorial
+2024-04-22 15:45:40,627 - INFO - Carregando consultas
+2024-04-22 15:46:12,656 - INFO - Escrevendo resultados no arquivo CSV
+2024-04-22 15:48:29,011 - INFO - Lendo arquivo .CFG
+2024-04-22 15:48:29,012 - INFO - Carregando modelo vetorial
+2024-04-22 15:48:29,045 - INFO - Carregando consultas
+2024-04-22 15:49:04,821 - INFO - Escrevendo resultados no arquivo CSV
+2024-04-22 15:49:04,851 - INFO - Concluído o processamento do buscador.
+2024-04-22 18:38:06,582 - INFO - Iniciando execucao do Buscador.
+2024-04-22 18:38:06,582 - INFO - Lendo arquivo .CFG
+2024-04-22 18:38:06,582 - INFO - Carregando modelo vetorial
+2024-04-22 18:38:06,617 - INFO - Carregando consultas
+2024-04-22 18:38:45,483 - INFO - Escrevendo resultados no arquivo CSV
+2024-04-22 18:38:45,514 - INFO - Tempo de execucao: 38.931875228881836
+2024-04-22 18:38:45,514 - INFO - Fim da execucao do Buscador.

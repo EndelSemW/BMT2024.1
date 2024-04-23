@@ -1,0 +1,34 @@
+2024-04-21 15:59:16,639 - INFO - Iniciando execucao do gerador de lista invertida.
+2024-04-21 15:59:16,640 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf74.xml
+2024-04-21 15:59:16,669 - WARNING - Opa meu guerreiro o documento 36 esta vazio. Sinto muito
+2024-04-21 15:59:16,682 - WARNING - Opa meu guerreiro o documento 128 esta vazio. Sinto muito
+2024-04-21 15:59:16,682 - WARNING - Opa meu guerreiro o documento 132 esta vazio. Sinto muito
+2024-04-21 15:59:16,687 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf75.xml
+2024-04-21 15:59:16,718 - WARNING - Opa meu guerreiro o documento 168 esta vazio. Sinto muito
+2024-04-21 15:59:16,743 - WARNING - Opa meu guerreiro o documento 298 esta vazio. Sinto muito
+2024-04-21 15:59:16,751 - WARNING - Opa meu guerreiro o documento 329 esta vazio. Sinto muito
+2024-04-21 15:59:16,757 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf76.xml
+2024-04-21 15:59:16,871 - WARNING - Opa meu guerreiro o documento 493 esta vazio. Sinto muito
+2024-04-21 15:59:16,875 - WARNING - Opa meu guerreiro o documento 512 esta vazio. Sinto muito
+2024-04-21 15:59:16,885 - WARNING - Opa meu guerreiro o documento 551 esta vazio. Sinto muito
+2024-04-21 15:59:16,893 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf77.xml
+2024-04-21 15:59:16,929 - WARNING - Opa meu guerreiro o documento 595 esta vazio. Sinto muito
+2024-04-21 15:59:16,960 - WARNING - Opa meu guerreiro o documento 712 esta vazio. Sinto muito
+2024-04-21 15:59:16,964 - WARNING - Opa meu guerreiro o documento 729 esta vazio. Sinto muito
+2024-04-21 15:59:16,965 - WARNING - Opa meu guerreiro o documento 735 esta vazio. Sinto muito
+2024-04-21 15:59:16,979 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf78.xml
+2024-04-21 15:59:17,018 - WARNING - Opa meu guerreiro o documento 839 esta vazio. Sinto muito
+2024-04-21 15:59:17,035 - WARNING - Opa meu guerreiro o documento 894 esta vazio. Sinto muito
+2024-04-21 15:59:17,046 - WARNING - Opa meu guerreiro o documento 932 esta vazio. Sinto muito
+2024-04-21 15:59:17,047 - WARNING - Opa meu guerreiro o documento 939 esta vazio. Sinto muito
+2024-04-21 15:59:17,064 - INFO - Processando arquivo XML: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Data\cf79.xml
+2024-04-21 15:59:17,108 - WARNING - Opa meu guerreiro o documento 1023 esta vazio. Sinto muito
+2024-04-21 15:59:17,121 - WARNING - Opa meu guerreiro o documento 1069 esta vazio. Sinto muito
+2024-04-21 15:59:17,127 - WARNING - Opa meu guerreiro o documento 1089 esta vazio. Sinto muito
+2024-04-21 15:59:17,146 - WARNING - Opa meu guerreiro o documento 1150 esta vazio. Sinto muito
+2024-04-21 15:59:17,147 - WARNING - Opa meu guerreiro o documento 1154 esta vazio. Sinto muito
+2024-04-21 15:59:17,158 - WARNING - Opa meu guerreiro o documento 1187 esta vazio. Sinto muito
+2024-04-21 15:59:17,172 - WARNING - Opa meu guerreiro o documento 1225 esta vazio. Sinto muito
+2024-04-21 15:59:17,213 - INFO - Lista invertida criada com sucesso.
+2024-04-21 15:59:17,220 - INFO - Execucao do gerador finalizada.
+2024-04-21 15:59:17,220 - INFO - Tempo de execucao: 0.5804648399353027

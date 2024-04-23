@@ -1,0 +1,10 @@
+2024-04-22 14:09:44,193 - Iniciando execucao do Indexador;
+2024-04-22 14:09:44,194 - Lendo arquivo de configuracao: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Config files\INDEX.CFG;
+2024-04-22 14:09:44,194 - Arquivo a ser lido: C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\lista_invertida.csv;
+2024-04-22 14:09:44,211 - Iniciando indexacao.
+2024-04-22 14:09:44,739 - Total de documentos da colecao: 1239;
+2024-04-22 14:09:44,739 - Iniciando calculo do TF/IDF de cada termo.
+2024-04-22 14:09:45,401 - Iniciando input do arquivo do modelo vetorial C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\modelo_vetorial.csv;
+2024-04-22 14:09:45,413 - Tempo de execucao: 1.2189207077026367
+2024-04-22 14:09:45,413 - Input do modelo vetorial C:\Users\en_de\OneDrive\Documentos\Facul\Mestrado\BMT 2024.1\Results\modelo_vetorial.csv finalizado;
+2024-04-22 14:09:45,413 - Fim da execucao do Indexador.
